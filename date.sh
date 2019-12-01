@@ -1,0 +1,2 @@
+echo "todays date"
+date
