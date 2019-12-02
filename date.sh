@@ -1,3 +1,5 @@
+This is conflict in dev branch
+
 This is conflict
 This is master branch
 
