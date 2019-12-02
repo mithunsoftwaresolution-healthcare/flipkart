@@ -1,3 +1,5 @@
+This is master branch
+
 echo "todays date"
 date
 
